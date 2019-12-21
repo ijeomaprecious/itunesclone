@@ -1,0 +1,145 @@
+.musiq{
+    margin: 8% 55% 5% 55%;
+    width:350px;
+
+}
+h3{
+    margin-left: 45%;
+    font-weight: 600;
+    font-size: 40px;
+    color: darkmagenta;
+}
+.sav{
+    font-size: 80px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+p{
+    font-size: 30px;
+    margin-right: 70px;
+}
+h6{
+    font-size: 25px;
+    margin: 50px 0px 0px 0px;
+    margin-left: 360px;
+    color: darkmagenta;
+}
+.sap{
+    width:300px;
+    height:100px;
+    margin-left: 320px;
+    margin: 50px 0px 0px 320px;
+}
+.sip{
+    width: 900px;
+    margin:70px 900px 0px 30px ;
+}
+.line{
+    margin:40px 0px 0px 50px;
+    color:darkmagenta;
+}
+.lane{
+    margin:40px 0px 0px 0px;
+    color:darkmagenta;
+}
+h4{
+    margin:60px 0px 0px 0px;
+    margin-left: 30px;
+}
+.six{
+    margin:60px 0px 0px 0px;
+    color: darkmagenta;
+}
+h2{
+    margin:90px 0px 0px 0px;
+    margin-left: 250px;
+    font-size: 50px;
+}
+.hi{
+    font-size: 20px;
+    margin-left: 250px;
+}
+.sep{
+    margin-left: 430px;
+    color:darkmagenta;
+}
+.jumbotron{
+    background-color: darksalmon;
+}
+.wave{
+    margin-left:250px ;
+}
+.wive{
+    margin-left:290px ;
+    color: darkmagenta;
+}
+.lafe{
+    margin:120px 0px 0px 0px ;
+}
+.lin{
+    
+    color: darkmagenta;
+}
+.three{
+    height:20px;
+}
+.shop{
+margin:40px 0px 0px 0px;
+color: darkmagenta;
+font-size: small;
+}
+.axe{
+    margin:40px 0px 0px 0px ;
+    color: darkmagenta;
+    font-size: small;
+}
+.acc{
+    margin:40px 0px 0px 0px ;
+    color: darkmagenta;
+    font-size: small;
+
+}
+.stor{
+    margin:40px 0px 0px 0px ;
+    color: darkmagenta;
+    font-size: small;
+}
+.lin{
+    margin:0px 0px 0px 0px 0px;
+}
+.sev{
+    text-align: center;
+    font-size: 70px;
+}
+.siv{
+    font-size: 19px;
+}
+.container-fluid{
+    background-color: #f4f4f4;
+}
+.niv{
+    height:30px;
+    margin-left: 200px;
+}
+ol{
+    margin-left: 200px;
+}
+
+/*Media Queries*/
+@media only screen and (max-width:480px){
+.sav{
+    margin:80px;
+    text-align:center;
+}
+}
+.nav-link{
+    margin-left: 90px;
+    font-size: 20px;
+}
+.navbar{
+    height: 60px;
+
+}
+.navbar-nav{
+    margin-left: 100px;
+}
